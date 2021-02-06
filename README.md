@@ -1,6 +1,6 @@
 # Movie
 
-Requirements : .NET Core 3.1 and Any IDE(VS/VSCode is oreferred)
+Requirements : .NET Core 3.1 and Any IDE(VS/VSCode is preferred)
 
 Run Executables:
   1. Download the Executables.zip file and extract it
